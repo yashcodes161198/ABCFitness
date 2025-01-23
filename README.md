@@ -4,13 +4,13 @@ Steps to start the app
 1. git clone
 2. cd to the ABCFitness directory
 3. execute the following commands
-     mvn clean install
+     a. mvn clean install
      (watch all the test cases)
-     docker-compose up
+     b. docker-compose up
 
 Steps to test the app using postman
 1. cd to the ABCFitness directory
-2. impost the postman collection - ABC.postman_collection.json
+2. import the postman collection - ABC.postman_collection.json
 3. test
 
 
